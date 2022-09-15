@@ -6,7 +6,7 @@ https://youtu.be/KsBbKO2hefE
 
 <h2> Essa API Rest foi desenvolvida usando Laravel e foi criada as rotas, migrations Models com o artisan e utilizando o banco de dados MySQL </h2>
 
-<h2> Siga os passos abaixo para essa pai funcinar </h2>
+<h2> Siga os passos abaixo para essa API funcinar </h2>
 
 <h3>1º - Criar um banco de dados chamado teste e verificar no seu .env </h3>
 <h3>2º Rodar o comando php artisan migration</h3>
