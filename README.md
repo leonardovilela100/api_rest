@@ -1,10 +1,10 @@
 
-### Assista ao vídeo de introdução a aplicação criado por Leonardo Carvalho Vilela
-<div>
+<h2> Assista ao vídeo de introdução a aplicação criado por Leonardo Carvalho Vilela <h2>
+<h1>
 https://youtu.be/KsBbKO2hefE
-</div>
+</h1>
 
-<h1> Essa API Rest foi desenvolvida usando Laravel e foi criada as rotas, migrations Models com o artisan e utilizando o banco de dados MySQL </h1>
+<h2> Essa API Rest foi desenvolvida usando Laravel e foi criada as rotas, migrations Models com o artisan e utilizando o banco de dados MySQL </h2>
 
 <h2> Siga os passos abaixo para essa pai funcinar </h2>
 
