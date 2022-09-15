@@ -8,7 +8,13 @@ https://youtu.be/KsBbKO2hefE
 
 <h2> Siga os passos abaixo para essa pai funcinar </h2>
 
-<h3>1º - Criar um banco de dados chamado  </h3>
+<h3>1º - Criar um banco de dados chamado teste e verificar no seu .env </h3>
+<h3>2º Rodar o comando php artisan migration</h3>
+<h3>3º Depois inserir os dados via mysql para validar a criação dos campos</h3>
+<h3>4º Rodar o php artisan serve , para rodar o servidor e depois entrar no link do servidor e passar a url + /api/product para validar a api get</h3>
+<h3>5º Temos em nossa aplicação 2 rotas /api/product e /api/cidades</h3>
+<h3>5º Na rota /api/product temos os metodos Get, Post, Put e Delete</h3>
+<h3>5º Na rota /api/cidades temos os metodos Get, Post</h3>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
