@@ -1,10 +1,10 @@
 
-
-### Assistir ao vídeo de introdução Criado por Leonardo Carvalho Vilela
+### Assista ao vídeo de introdução a aplicação criado por Leonardo Carvalho Vilela
 <div>
 https://youtu.be/KsBbKO2hefE
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 
