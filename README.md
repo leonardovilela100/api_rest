@@ -4,7 +4,7 @@
 https://youtu.be/KsBbKO2hefE
 </h1>
 
-<h2> Essa API Rest foi desenvolvida usando Laravel e foi criada as rotas, migrations Models com o artisan e utilizando o banco de dados MySQL </h2>
+<h2> Essa API Rest foi desenvolvida usando Laravel, foi criada as Rotas, Migrations Models usando o Artisan make: . Foi utilizado o banco de dados MySQL </h2>
 
 <h2> Siga os passos abaixo para essa API funcinar </h2>
 
