@@ -10,7 +10,7 @@ https://youtu.be/KsBbKO2hefE
 
 <h3>1º - Criar um banco de dados chamado teste e verificar no seu .env </h3>
 <h3>2º Rodar o comando php artisan migration</h3>
-<h3>2.1º Caso não funcione baixar as 2 tabelas já criadas</h3>
+<h3>2.1º Caso não funcione, baixar as 2 tabelas já criadas</h3>
 <h3>2.2º Tabela products: link: https://github.com/leonardovilela100/api_rest/blob/main/products.sql</h3>
 <h3>2.3º Tabela cities: link: https://github.com/leonardovilela100/api_rest/blob/main/cities.sql</h3>
 <h3>3º Depois inserir os dados via mysql para validar a criação dos campos</h3>
