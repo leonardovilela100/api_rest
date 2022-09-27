@@ -1,14 +1,14 @@
 
 <h2> Assista ao vídeo de introdução a aplicação criado por Leonardo Carvalho Vilela <h2>
 <h1>
-https://youtu.be/KsBbKO2hefE
+https://www.youtube.com/watch?v=U6KM_iu9G3o
 </h1>
 
 <h2> Essa API Rest foi desenvolvida usando Laravel, foi criada as Rotas, Migrations e Models usando o Artisan make: . Foi utilizado o banco de dados MySQL </h2>
 
 <h2> Siga os passos abaixo para essa API funcinar </h2>
 
-<h3>1º - Criar um banco de dados chamado teste e verificar no seu .env </h3>
+<h3>1º - Criar um banco de dados chamado (teste) e verificar no seu .env </h3>
 <h3>2º Rodar o comando php artisan migration</h3>
 <h3>2.1º Caso não funcione, baixar as 2 tabelas já criadas</h3>
 <h3>2.2º Tabela products: link: https://github.com/leonardovilela100/api_rest/blob/main/products.sql</h3>
